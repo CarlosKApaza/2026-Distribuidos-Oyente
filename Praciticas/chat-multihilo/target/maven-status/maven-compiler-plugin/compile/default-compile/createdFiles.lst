@@ -1,0 +1,4 @@
+bo\edu\usfx\sockets\ServidorSecuencial.class
+bo\edu\usfx\sockets\ServidorMultihilo.class
+bo\edu\usfx\sockets\ClienteBasico.class
+bo\edu\usfx\sockets\Manejador.class
